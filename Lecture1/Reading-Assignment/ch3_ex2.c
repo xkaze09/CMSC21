@@ -1,4 +1,4 @@
-/* Prints int and float values in various formats */
+/* C program that prints int and float values in various formats */
 
 // For printf function
 #include <stdio.h>
