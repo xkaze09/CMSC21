@@ -1,7 +1,7 @@
 // For printf function
 #include <stdio.h>
 
-int main() {
+int main(void) {
     // Variable Declaration and Initialization
     // using int and float data types
     int i, j;
