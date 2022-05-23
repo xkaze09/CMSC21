@@ -1,5 +1,11 @@
+/*
+    CMSC 21 Second Long Exam
+    Part II. #4.
+    By: Christian Justin J. Salinas
+*/
+
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 
 // A: Constant SIZE is defined to 5.
 #define SIZE 5
